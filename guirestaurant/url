@@ -1,0 +1,1 @@
+jdbc:sqlserver://CALLT014\\DBPANGAEA;domain=workgroup;integratedSecurity=true; database=restaurant

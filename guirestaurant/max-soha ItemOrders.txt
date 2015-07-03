@@ -1,0 +1,347 @@
+Date: 20 12 2014 
+ 
+Order number1,  2014-03-20 18:51:50.726
+BBQ sandwich
+8.95
+cheeseburger
+6.95
+Total Price is: $15.90
+ 
+Date: 20 12 2014 
+ 
+Order number1,  2014-03-20 19:33:14.952
+gyro wrap
+5.50
+BBQ sandwich
+8.95
+Total Price is: $14.45
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 09:13:09.728
+gyro wrap
+5.50
+hamburger
+5.50
+cheeseburger
+6.95
+spaghetti
+7.95
+spaghetti
+7.95
+BBQ sandwich
+8.95
+Total Price is: $42.80
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:08:32.752
+gyro wrap
+5.50
+hamburger
+5.50
+cheeseburger
+6.95
+spaghetti
+7.95
+Total Price is: $25.90
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:53:22.34
+hamburger
+5.50
+cheeseburger
+6.95
+spaghetti
+7.95
+gyro wrap
+5.50
+Total Price is: $25.90
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:54:12.743
+cheeseburger
+6.95
+BBQ sandwich
+8.95
+chicken sandwich
+6.95
+Total Price is: $22.85
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:54:33.033
+cheeseburger
+6.95
+BBQ sandwich
+8.95
+Total Price is: $15.90
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:55:01.482
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:56:31.69
+BBQ sandwich
+8.95
+Total Price is: $8.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:56:47.438
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:57:14.366
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:58:58.983
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 14:59:48.431
+gyro wrap
+5.50
+Total Price is: $5.50
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:00:22.698
+gyro wrap
+5.50
+Total Price is: $5.50
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:01:06.091
+gyro wrap
+5.50
+Total Price is: $5.50
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:01:59.322
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:03:24.213
+cheeseburger
+6.95
+BBQ sandwich
+8.95
+Total Price is: $15.90
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:03:42.948
+cheeseburger
+6.95
+spaghetti
+7.95
+chicken sandwich
+6.95
+BBQ sandwich
+8.95
+chicken sandwich
+6.95
+steak
+9.95
+grilled salmon
+7.95
+Total Price is: $55.65
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:05:02.103
+hamburger
+5.50
+cheeseburger
+6.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+cheeseburger
+6.95
+gyro wrap
+5.50
+Total Price is: $48.75
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:13:11.287
+cheeseburger
+6.95
+Total Price is: $6.95
+ 
+Date: 7 15 2014 
+ 
+Order number1,  2014-04-07 15:37:04.268
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+spaghetti
+7.95
+Total Price is: $119.25
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 08:49:23.202
+spaghetti
+7.95
+cheeseburger
+6.95
+BBQ sandwich
+8.95
+chicken sandwich
+6.95
+grilled salmon
+7.95
+steak
+9.95
+Total Price is: $48.70
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 08:49:37.563
+hamburger
+5.50
+gyro wrap
+5.50
+spaghetti
+7.95
+cheeseburger
+6.95
+spaghetti
+7.95
+chicken sandwich
+6.95
+BBQ sandwich
+8.95
+grilled salmon
+7.95
+steak
+9.95
+Total Price is: $67.65
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 10:29:16.503
+hamburger
+5.50
+gyro wrap
+5.50
+spaghetti
+7.95
+cheeseburger
+6.95
+Total Price is: $25.90
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 10:52:47.519
+hamburger
+5.50
+cheeseburger
+6.95
+spaghetti
+7.95
+Total Price is: $20.40
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 14:42:42.438
+hamburger
+5.50
+gyro wrap
+5.50
+Total Price is: $11.00
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 20:00:29.521
+spaghetti
+7.95
+cheeseburger
+6.95
+BBQ sandwich
+8.95
+chicken sandwich
+6.95
+steak
+9.95
+Total Price is: $40.75
+ 
+Order number2,  2014-04-08 20:00:55.05
+BBQ sandwich
+8.95
+BBQ sandwich
+8.95
+BBQ sandwich
+8.95
+BBQ sandwich
+8.95
+BBQ sandwich
+8.95
+BBQ sandwich
+8.95
+Total Price is: $53.70
+ 
+Date: 8 15 2014 
+ 
+Order number1,  2014-04-08 20:14:26.774
+cheeseburger
+6.95
+hamburger
+5.50
+gyro wrap
+5.50
+Total Price is: $17.95
+ 
